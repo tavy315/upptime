@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "down",
+    "name": "Webstore",
+    "url": "https://www.webstore.be",
+    "slug": "webstore",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1865
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
+    "name": "Octav.Name",
+    "url": "https://www.octav.name",
+    "slug": "octav-name",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 902
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
+    "name": "LG-Imports",
+    "url": "https://www.lg-imports.be",
+    "slug": "lg-imports",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1391
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "Tracknator",
+    "url": "https://www.tracknator.com",
+    "slug": "tracknator",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
+    "time": 507
   }
 ]
