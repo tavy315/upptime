@@ -4,31 +4,31 @@
     "url": "https://www.webstore.be",
     "slug": "webstore",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1655
+    "uptime": "100.00%",
+    "time": 1621
   },
   {
     "name": "Octav.Name",
     "url": "https://www.octav.name",
     "slug": "octav-name",
     "status": "up",
-    "uptime": "100.00",
-    "time": 723
+    "uptime": "100.00%",
+    "time": 692
   },
   {
     "name": "LG-Imports",
     "url": "https://www.lg-imports.be",
     "slug": "lg-imports",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1334
+    "uptime": "100.00%",
+    "time": 1238
   },
   {
     "name": "Tracknator",
     "url": "https://www.tracknator.com",
     "slug": "tracknator",
     "status": "up",
-    "uptime": "100.00",
-    "time": 407
+    "uptime": "100.00%",
+    "time": 396
   }
 ]
