@@ -3,9 +3,9 @@
     "name": "Webstore",
     "url": "https://www.webstore.be",
     "slug": "webstore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1621
+    "time": 1418
   },
   {
     "name": "Octav.Name",
