@@ -13,7 +13,7 @@
     "slug": "octav-name",
     "status": "up",
     "uptime": "100.00%",
-    "time": 692
+    "time": 684
   },
   {
     "name": "LG-Imports",
@@ -21,7 +21,7 @@
     "slug": "lg-imports",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1238
+    "time": 1179
   },
   {
     "name": "Tracknator",
@@ -29,6 +29,6 @@
     "slug": "tracknator",
     "status": "up",
     "uptime": "100.00%",
-    "time": 396
+    "time": 403
   }
 ]
