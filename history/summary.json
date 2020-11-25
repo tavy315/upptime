@@ -5,7 +5,7 @@
     "slug": "webstore",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1378
+    "time": 1419
   },
   {
     "name": "Octav.Name",
@@ -13,7 +13,7 @@
     "slug": "octav-name",
     "status": "up",
     "uptime": "100.00%",
-    "time": 684
+    "time": 691
   },
   {
     "name": "LG-Imports",
@@ -21,7 +21,7 @@
     "slug": "lg-imports",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1179
+    "time": 1152
   },
   {
     "name": "Tracknator",
@@ -29,6 +29,6 @@
     "slug": "tracknator",
     "status": "up",
     "uptime": "100.00%",
-    "time": 403
+    "time": 421
   }
 ]
