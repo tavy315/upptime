@@ -5,15 +5,31 @@
     "slug": "webstore",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1637
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1778,
+    "timeDay": 2525,
+    "timeWeek": 2004,
+    "timeMonth": 1778,
+    "timeYear": 1778
   },
   {
     "name": "Octav.Name",
     "url": "https://www.octav.name",
     "slug": "octav-name",
     "status": "up",
-    "uptime": "83.53%",
-    "time": 570
+    "uptime": "84.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "71.60%",
+    "uptimeMonth": "84.79%",
+    "uptimeYear": "84.79%",
+    "time": 685,
+    "timeDay": 699,
+    "timeWeek": 671,
+    "timeMonth": 685,
+    "timeYear": 685
   },
   {
     "name": "LG-Imports",
@@ -21,7 +37,15 @@
     "slug": "lg-imports",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1122
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1124,
+    "timeDay": 1148,
+    "timeWeek": 1110,
+    "timeMonth": 1124,
+    "timeYear": 1124
   },
   {
     "name": "Tracknator",
@@ -29,6 +53,14 @@
     "slug": "tracknator",
     "status": "up",
     "uptime": "100.00%",
-    "time": 471
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 483,
+    "timeDay": 667,
+    "timeWeek": 538,
+    "timeMonth": 483,
+    "timeYear": 483
   }
 ]
