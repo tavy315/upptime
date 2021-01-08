@@ -4,9 +4,9 @@
     "url": "https://www.webstore.be",
     "icon": "https://favicons.githubusercontent.com/www.webstore.be",
     "slug": "webstore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1423,
     "timeMonth": 1765,
     "timeYear": 1775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-08": 0
+    }
   },
   {
     "name": "Octav.Name",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.octav.name",
     "slug": "octav-name",
     "status": "up",
-    "uptime": "95.95%",
+    "uptime": "95.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.95%",
+    "uptimeYear": "95.98%",
     "time": 632,
     "timeDay": 548,
     "timeWeek": 628,
