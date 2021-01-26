@@ -1,7 +1,7 @@
 url: https://www.webstore.be
-status: down
-code: 503
-responseTime: 10931
-lastUpdated: 2021-01-26T19:53:29.070Z
+status: up
+code: 200
+responseTime: 3329
+lastUpdated: 2021-01-26T20:31:01.297Z
 startTime: Thu Nov 19 2020 22:39:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
