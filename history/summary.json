@@ -28,11 +28,11 @@
     "icon": "https://favicons.githubusercontent.com/www.octav.name",
     "slug": "octav-name",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.57%",
     "time": 622,
     "timeDay": 727,
     "timeWeek": 653,
@@ -49,9 +49,9 @@
     "url": "https://www.lg-imports.be",
     "icon": "https://favicons.githubusercontent.com/www.lg-imports.be",
     "slug": "lg-imports",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,7 +60,9 @@
     "timeWeek": 1466,
     "timeMonth": 1145,
     "timeYear": 1119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 0
+    }
   },
   {
     "name": "Tracknator",
