@@ -4,14 +4,10 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Webstore
-    url: https://www.webstore.be
   - name: Octav.Name
     url: https://www.octav.name
   - name: LG-Imports
     url: https://www.lg-imports.be
-  - name: Tracknator
-    url: https://www.tracknator.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
