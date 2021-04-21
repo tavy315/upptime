@@ -28,17 +28,17 @@
     "url": "https://www.lg-imports.be",
     "icon": "https://favicons.githubusercontent.com/www.lg-imports.be",
     "slug": "lg-imports",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1186,
-    "timeDay": 3256,
-    "timeWeek": 1585,
-    "timeMonth": 1329,
-    "timeYear": 1186,
+    "time": 1184,
+    "timeDay": 2442,
+    "timeWeek": 1499,
+    "timeMonth": 1314,
+    "timeYear": 1184,
     "dailyMinutesDown": {
       "2021-02-09": 27
     }
